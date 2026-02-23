@@ -4,3 +4,5 @@
 ```npx expo start```
 
 ```npx create-expo-app@latest myapp --template blank```
+
+![alt text](image.png)
