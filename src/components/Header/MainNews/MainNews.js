@@ -7,7 +7,7 @@ import {
   Dimensions,
 } from "react-native";
 import styles from "./styles";
-import axios from "axios";
+import {} from '../../../utils/helpers/apiService.js'
 
 const { width } = Dimensions.get("window");
 
